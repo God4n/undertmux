@@ -3,7 +3,6 @@
 stty -echo -icanon time 0 min 0
 tput civis
 
-# Color rojo #e81324 en ANSI (approx)
 RED="\033[38;2;232;19;36m"
 RESET="\033[0m"
 HEART="$RED$RESET"
