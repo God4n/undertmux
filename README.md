@@ -2,6 +2,16 @@
 
 **Undertmux** is a custom `tmux` configuration inspired by the Undertale game UI.  
 
+![undertmux](undertmux.png)
+
+Displayed values:
+
+- Session name
+- `LV` uptime hours
+- `HP` battery lifetime
+- Windows
+- Date & Time
+
 ---
 
 ## Instalation
