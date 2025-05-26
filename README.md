@@ -26,9 +26,11 @@ copy the content of the `.tmux.conf` and `.zshrc` configuration files to avoid o
 
 ---
 
-## Extra
+## Extras
 
-The undertmux configuration includes a shortcut to create the default windows (`Ctrl`+`b`  `Shift`+`u`). However the other option is to add the next function to your `.zshrc` or `.bashrc`.
+- The scripts in `.tmux-scripts` include a minigame, to start it use: `Ctrl`+`b`  `Shift`+`G`
+
+- The undertmux configuration includes a shortcut to create the default windows (`Ctrl`+`b`  `Shift`+`u`). However the other option is to add the next function to your `.zshrc` or `.bashrc`.
 
 ```
 function undertmux {
